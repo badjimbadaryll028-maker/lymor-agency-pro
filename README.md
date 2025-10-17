@@ -1,0 +1,1 @@
+See README in previous step; build with `npm run build` and deploy to Vercel (output: dist).
